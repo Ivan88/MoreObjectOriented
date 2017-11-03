@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Loop
+namespace Loops
 {
 	public static class EnumerableExt
 	{

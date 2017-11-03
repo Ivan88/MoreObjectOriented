@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Loop
+namespace Loops
 {
 	public interface IPainter
 	{

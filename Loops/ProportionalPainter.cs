@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Loop
+namespace Loops
 {
-	public class ProportionelaPainter : IPainter
+	public class ProportionalPainter : IPainter
 	{
 		public TimeSpan TimePerSqMeter { get; set; }
 		public double DollarsPerHour { get; set; }
